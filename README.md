@@ -21,7 +21,7 @@
 
   ### Skills:
 
-  <img width="290" src="https://skills.thijs.gg/icons?i=html,css,js,ts,react,angular,mysql,bootstrap" >
+  <img width="320" src="https://skills.thijs.gg/icons?i=html,css,js,ts,react,angular,mysql,bootstrap" >
   
 
 <div style="display: inline_block"> 
