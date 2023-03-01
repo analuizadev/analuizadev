@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e33e81&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ana+Luiza)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e33e81&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ana+Luiza.)](https://git.io/typing-svg)
 
   <img height="150" align="right" src="https://media.discordapp.net/attachments/1015469538738970636/1072242998953390130/popcorn.png">
 
