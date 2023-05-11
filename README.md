@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"> 
 
-  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ana-luiza-de-castro-6580081b7/) &nbsp; 
+  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ana-luiza-de-castro/) &nbsp; 
   [![Gmail Badge](https://img.shields.io/badge/-canaluizastro@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:canaluizastro@gmail.com)](mailto:canaluizastro@gmail.com) &nbsp;
 
 </div>
