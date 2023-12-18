@@ -25,12 +25,6 @@
   <img width="320" src="https://skills.thijs.gg/icons?i=html,css,js,ts,react,golang,mysql,bootstrap" >
   
 
-<div style="display: inline_block"> 
-
-  [![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=analuizadev&show_icons=true&theme=radical&card_width=200)](https://github.com/anuraghazra/github-readme-stats) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analuizadev&card_width=400&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-
-
+<img src = "https://github-readme-stats.vercel.app/api?username=analuizadev&show_icons=true&theme=dracula" width = 400>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=analuizadev&theme=dracula" width = 400>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=analuizadev&layout=compact&theme=dracula" width = 400>
