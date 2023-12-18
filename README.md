@@ -7,7 +7,7 @@
 </div>
 
 
-:desktop_computer: I'm a front-end developer junior.
+:desktop_computer: I'm a fullstack developer junior.
 
 <div style="display: inline_block"> 
 
@@ -21,7 +21,7 @@
 
   ### Skills:
 
-  <img width="320" src="https://skills.thijs.gg/icons?i=html,css,js,ts,react,angular,mysql,bootstrap" >
+  <img width="320" src="https://skills.thijs.gg/icons?i=html,css,js,ts,react,golang,mysql,bootstrap" >
   
 
 <div style="display: inline_block"> 
