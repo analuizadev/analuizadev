@@ -8,6 +8,7 @@
 
 
 :desktop_computer: I'm a fullstack developer junior.
+<br />
 :memo: Studying Golang by Udemy and AWS by Escola da nuvem.
 
 <div style="display: inline_block"> 
