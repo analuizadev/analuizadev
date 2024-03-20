@@ -2,14 +2,11 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e33e81&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ana+Luiza.)](https://git.io/typing-svg)
 
-  <img height="150" align="right" src="https://media.discordapp.net/attachments/1015469538738970636/1072242998953390130/popcorn.png">
-
 </div>
 
 
 :desktop_computer: I'm a fullstack developer junior.
 <br />
-:memo: Studying Golang by Udemy and AWS by Escola da nuvem.
 
 <div style="display: inline_block"> 
 
@@ -23,8 +20,18 @@
 
   ### Skills:
 
-  <img width="320" src="https://skills.thijs.gg/icons?i=html,css,js,ts,react,golang,mysql,bootstrap" >
-  
+  #### Linguagens
+  <img max-width="320" src="https://skills.thijs.gg/icons?i=html,css,js,ts,golang" >
 
-<img src = "https://github-readme-stats.vercel.app/api?username=analuizadev&show_icons=true&theme=dracula" width = 400>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=analuizadev&layout=compact&theme=dracula" width = 400>
+  #### Framework/Lib
+  <img max-width="320" src="https://skills.thijs.gg/icons?i=react,nodejs,vite,bootstrap" >
+
+  #### Banco de dados
+  <img max-width="320" src="https://skills.thijs.gg/icons?i=mysql" >
+
+  #### Cloud
+  <img max-width="320" src="https://skills.thijs.gg/icons?i=aws" >
+  
+#
+  <img src = "https://github-readme-stats.vercel.app/api?username=analuizadev&show_icons=true&theme=dracula" width = 400> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=analuizadev&layout=compact&theme=dracula" width = 400>
