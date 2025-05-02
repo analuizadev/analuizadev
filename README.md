@@ -4,8 +4,7 @@
 
 </div>
 
-
-:desktop_computer: I'm a fullstack developer junior.
+:desktop_computer: I'm a fullstack developer and high school student. I'm interested in development and cloud services. I work in projects to improve my knowledeg and skills.
 <br />
 
 <div style="display: inline_block"> 
@@ -19,19 +18,10 @@
 
 
   ### Skills:
-
-  #### Linguagens
-  <img max-width="320" src="https://skills.thijs.gg/icons?i=html,css,js,ts,golang" >
-
-  #### Framework/Lib
-  <img max-width="320" src="https://skills.thijs.gg/icons?i=react,nodejs,vite,bootstrap" >
-
-  #### Banco de dados
-  <img max-width="320" src="https://skills.thijs.gg/icons?i=mysql" >
-
-  #### Cloud
-  <img max-width="320" src="https://skills.thijs.gg/icons?i=aws" >
+  <img max-width="320" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,golang,cs,nodejs,react,angular,vite,bootstrap,vue,vuetify,mysql,postman,postgres,aws,figma" >
   
 #
+<div style="display: flex; align-items: center;"> 
   <img src = "https://github-readme-stats.vercel.app/api?username=analuizadev&show_icons=true&theme=dracula" width = 400> 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=analuizadev&layout=compact&theme=dracula" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=analuizadev&layout=compact&theme=dracula" width = 300>
+</div>
